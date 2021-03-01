@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>☕ Coffee System</title>
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="index.css">
+</head>
+<body>
+	<div class="content">
+
+		<h1>Hello</h1>
+		<p>Welcome to the Coffee System</p>
+		<p>Order total so far $<span id="order-total"></span></p>
+
+		<div class="container">
+			<div class="form">
+				<form>
+					<div class="input-wrap">
+						<label for="coffee-name">Coffee</label>
+						<input type="text" name="coffee-name" id="coffee-name">
+					</div>
+					<div class="input-wrap">
+						<label for="customer-name">Customer</label>
+						<input type="text" id="customer-name" name="customer-name">
+					</div>
+					<button>Order</button>
+				</form>
+			</div>
+		</div>
+
+		<div class="container">
+			<h2>Orders</h2>
+			<ul id="order-list">
+			</ul>
+		</div>
+
+	</div>
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+	<script src="system.js"></script>
+	<script src="index.js"></script>
+</body>
+</html>

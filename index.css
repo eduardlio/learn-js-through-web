@@ -1,0 +1,69 @@
+
+*, body, html{
+	margin: 0;
+	padding: 0;
+	line-height: 1em;
+	font-family: 'Poppins', 'Segoe UI', Verdana, sans-serif;
+}
+h1, h2
+p {
+	line-height: 1.5em;
+	margin-bottom: 3px;
+}
+.content {
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 80px;
+	display: flex;
+	flex-direction: column;
+	padding: 16px;
+	border-radius: 2px;
+	border: 1px solid black;
+}
+.container{
+	width: 100%;
+	margin: 20px auto;
+	padding: 10px;
+}
+.container > * {
+	margin-bottom: 5px;
+}
+.input-wrap{
+	margin-bottom: 10px;
+}
+.input-wrap input {
+	outline: none;
+	padding: 2px;
+	border-radius: 3px;
+	border: 1px solid black;
+}
+.input-wrap input:focus{ 
+	border: 1px solid rgb(8, 124, 233);
+}
+.form button {
+	cursor: pointer;
+	padding: 5px;
+	border-radius: 3px;
+	border: 1px solid black;
+	background: white;
+	outline: none;
+}
+.form button:hover {
+	background: black;
+	color: white;
+}
+#order-list li {
+	list-style: none;
+	padding: 10px;
+	border-radius: 2px;
+	border: 1px solid black;
+	width: calc(100% - 400px);
+	animation: enterList 0.2s ease-in;
+}
+#order-list li:not(:last-child) {
+	margin-bottom: 10px;
+}
+@keyframes enterList {
+	from {opacity: 0;}
+	to {opacity: 100;}
+}
