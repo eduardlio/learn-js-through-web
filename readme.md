@@ -1,13 +1,13 @@
 # Visual JS
 
-## Bee Movie Script - Dialogue Transcript
+## BEE Movie Script - Dialogue Transcript
 
   
 According to all known laws
 of aviation,
 
   
-there is no way a bee
+there is no way a BEE
 should be able to fly.
 
   
@@ -15,10 +15,10 @@ Its wings are too small to get
 its fat little body off the ground.
 
   
-The bee, of course, flies anyway
+The BEE, of course, flies anyway
 
   
-because bees don't care
+because BEES don't care
 what humans think is impossible.
 
   
@@ -149,14 +149,14 @@ under the circumstances.
 - We are!
 
   
-- Bee-men.
+- BEE-men.
 - Amen!
 
   
 Hallelujah!
 
   
-Students, faculty, distinguished bees,
+Students, faculty, distinguished BEES,
 
   
 please welcome Dean Buzzwell.
@@ -209,7 +209,7 @@ Wow.
 Wow.
 
   
-We know that you, as a bee,
+We know that you, as a BEE,
 have worked your whole life
 
   
@@ -251,10 +251,10 @@ Honey!
 
   
 to improve every aspect
-of bee existence.
+of BEE existence.
 
   
-These bees are stress-testing
+These BEES are stress-testing
 a new helmet technology.
 
   
@@ -277,8 +277,8 @@ Saves us millions.
 Oan anyone work on the Krelman?
 
   
-Of course. Most bee jobs are
-small ones. But bees know
+Of course. Most BEE jobs are
+small ones. But BEES know
 
   
 that every small job,
@@ -299,7 +299,7 @@ I didn't know that.
 What's the difference?
 
   
-You'll be happy to know that bees,
+You'll be happy to know that BEES,
 as a species, haven't had one day off
 
   
@@ -332,7 +332,7 @@ never have told us that?
 
   
 Why would you question anything?
-We're bees.
+We're BEES.
 
   
 We're the most perfectly
@@ -405,7 +405,7 @@ than you and I will see in a lifetime.
 
   
 It's just a status symbol.
-Bees make too much of it.
+BEES make too much of it.
 
   
 Perhaps. Unless you're wearing it
@@ -478,7 +478,7 @@ We're going 0900 at J-Gate.
 
   
 What do you think, buzzy-boy?
-Are you bee enough?
+Are you BEE enough?
 
   
 I might be. It all depends
@@ -577,7 +577,7 @@ will be gone.
 Yeah, right.
 
   
-Pollen counting, stunt bee, pouring,
+Pollen counting, stunt BEE, pouring,
 stirrer, front desk, hair removal...
 
   
@@ -632,7 +632,7 @@ The Krelman opened up again.
 What happened?
 
   
-A bee died. Makes an opening. See?
+A BEE died. Makes an opening. See?
 He's dead. Another dead one.
 
   
@@ -647,7 +647,7 @@ Oh, this is so hard!
 
   
 Heating, cooling,
-stunt bee, pourer, stirrer,
+stunt BEE, pourer, stirrer,
 
   
 humming, inspector number seven,
@@ -721,7 +721,7 @@ You got a rain advisory today,
 
   
 and as you all know,
-bees cannot fly in rain.
+BEES cannot fly in rain.
 
   
 So be careful. As always,
@@ -733,7 +733,7 @@ birds, bears and bats.
 
   
 Also, I got a couple of reports
-of root beer being poured on us.
+of root BEEr being poured on us.
 
   
 Murphy's in a home because of it,
@@ -744,7 +744,7 @@ babbling like a cicada!
 - And a reminder for you rookies,
 
   
-bee law number one,
+BEE law number one,
 absolutely no talking to humans!
 
   
@@ -897,7 +897,7 @@ Ohemical-y.
 Oareful, guys. It's a little grabby.
 
   
-My sweet lord of bees!
+My sweet lord of BEES!
 
   
 Oandy-brain, get off there!
@@ -954,14 +954,14 @@ Yowser!
 Gross.
 
   
-There's a bee in the car!
+There's a BEE in the car!
 
   
 - Do something!
 - I'm driving!
 
   
-- Hi, bee.
+- Hi, BEE.
 - He's back here!
 
   
@@ -997,7 +997,7 @@ Oan't fly in rain.
 Oan't fly in rain.
 
   
-Mayday! Mayday! Bee going down!
+Mayday! Mayday! BEE going down!
 
   
 Ken, could you close
@@ -1066,7 +1066,7 @@ I could feel it getting hotter.
 At first I thought it was just me.
 
   
-Wait! Stop! Bee!
+Wait! Stop! BEE!
 
   
 Stand back. These are winter boots.
@@ -1151,7 +1151,7 @@ What would I say?
 I could really get in trouble.
 
   
-It's a bee law.
+It's a BEE law.
 You're not supposed to talk to a human.
 
   
@@ -1205,7 +1205,7 @@ is very disconcerting.
 
   
 This is a bit of a surprise to me.
-I mean, you're a bee!
+I mean, you're a BEE!
 
   
 I am. And I'm not supposed
@@ -1225,12 +1225,12 @@ It's just how I was raised.
 That was a little weird.
 
   
-- I'm talking with a bee.
+- I'm talking with a BEE.
 - Yeah.
 
   
-I'm talking to a bee.
-And the bee is talking to me!
+I'm talking to a BEE.
+And the BEE is talking to me!
 
   
 I just want to say I'm grateful.
@@ -1252,7 +1252,7 @@ Same way you did, I guess.
 - Yeah.
 
   
-Bees are funny. If we didn't laugh,
+BEES are funny. If we didn't laugh,
 we'd cry with what we have to deal with.
 
   
@@ -1333,7 +1333,7 @@ I thought you said Guatemalan.
 Why would I marry a watermelon?"
 
   
-Is that a bee joke?
+Is that a BEE joke?
 
   
 That's the kind of stuff we do.
@@ -1402,7 +1402,7 @@ I lost a toe ring there once.
 Just having two cups of coffee!
 
   
-Anyway, this has been great.
+Anyway, this has BEEn great.
 Thanks for the coffee.
 
   
@@ -1502,7 +1502,7 @@ can pick out yourjob and be normal.
 Well, I met someone.
 
   
-You did? Was she Bee-ish?
+You did? Was she BEE-ish?
 
   
 - A wasp?! Your parents will kill you!
@@ -1526,8 +1526,8 @@ So who is she?
 She's... human.
 
   
-No, no. That's a bee law.
-You wouldn't break a bee law.
+No, no. That's a BEE law.
+You wouldn't break a BEE law.
 
   
 - Her name's Vanessa.
@@ -1599,16 +1599,16 @@ There's no yearning.
 Stop yearning. Listen to me!
 
   
-You have got to start thinking bee,
-my friend. Thinking bee!
+You have got to start thinking BEE,
+my friend. Thinking BEE!
 
   
-- Thinking bee.
-- Thinking bee.
+- Thinking BEE.
+- Thinking BEE.
 
   
-Thinking bee! Thinking bee!
-Thinking bee! Thinking bee!
+Thinking BEE! Thinking BEE!
+Thinking BEE! Thinking BEE!
 
   
 There he is. He's in the pool.
@@ -1617,13 +1617,13 @@ There he is. He's in the pool.
 You know what your problem is, Barry?
 
   
-I gotta start thinking bee?
+I gotta start thinking BEE?
 
   
 How much longer will this go on?
 
   
-It's been three days!
+It's BEEn three days!
 Why aren't you working?
 
   
@@ -1632,7 +1632,7 @@ to think about.
 
   
 What life? You have no life!
-You have no job. You're barely a bee!
+You have no job. You're barely a BEE!
 
   
 Would it kill you
@@ -1697,7 +1697,7 @@ A girl? Is this why you can't decide?
 Bye.
 
   
-I just hope she's Bee-ish.
+I just hope she's BEE-ish.
 
   
 They have a huge parade
@@ -1742,7 +1742,7 @@ It's a horrible, horrible disease.
 Oh, my.
 
   
-Dumb bees!
+Dumb BEES!
 
   
 You must want to sting all those jerks.
@@ -1803,7 +1803,7 @@ of Mighty Hercules is this?
 
   
 How did this get here?
-Oute Bee, Golden Blossom,
+Oute BEE, Golden Blossom,
 
   
 Ray Liotta Private Select?
@@ -1825,7 +1825,7 @@ enough food of your own?
 - How do you get it?
 
   
-- Bees make it.
+- BEES make it.
 - I know who makes it!
 
   
@@ -1846,7 +1846,7 @@ It's just honey, Barry.
 Just what?!
 
   
-Bees don't know about this!
+BEES don't know about this!
 This is stealing! A lot of stealing!
 
   
@@ -1899,7 +1899,7 @@ I thought we were friends.
 
   
 The last thing we want
-to do is upset bees!
+to do is upset BEES!
 
   
 You're too late! It's ours now!
@@ -1974,7 +1974,7 @@ Uh-oh!
 - Triple blade?
 
   
-Jump on! It's your only chance, bee!
+Jump on! It's your only chance, BEE!
 
   
 Why does everything have
@@ -1995,7 +1995,7 @@ I'm Oarl Kasell.
 But don't kill no more bugs!
 
   
-- Bee!
+- BEE!
 - Moose blood guy!!
 
   
@@ -2009,7 +2009,7 @@ Like tiny screaming.
 Turn off the radio.
 
   
-Whassup, bee boy?
+Whassup, BEE boy?
 
   
 Hey, Blood.
@@ -2029,7 +2029,7 @@ is where they're getting it.
 I mean, that honey's ours.
 
   
-- Bees hang tight.
+- BEES hang tight.
 - We're all jammed in.
 
   
@@ -2063,7 +2063,7 @@ You got to be kidding me!
 
   
 Mooseblood's about to leave
-the building! So long, bee!
+the building! So long, BEE!
 
   
 - Hey, guys!
@@ -2081,7 +2081,7 @@ and it's pretty much pure profit.
 What is this place?
 
   
-A bee's got a brain
+A BEE's got a brain
 the size of a pinhead.
 
   
@@ -2150,7 +2150,7 @@ Oh, no!
 There's hundreds of them!
 
   
-Bee honey.
+BEE honey.
 
   
 Our honey is being brazenly stolen
@@ -2178,7 +2178,7 @@ These are obviously doctored photos.
 How did you get mixed up in this?
 
   
-He's been talking to humans.
+He's BEEn talking to humans.
 
   
 - What?
@@ -2199,7 +2199,7 @@ We do not.
 - Whose side are you on?
 
   
-The bees!
+The BEES!
 
   
 I dated a cricket once in San Antonio.
@@ -2211,7 +2211,7 @@ to do with your life?
 
   
 I want to do it for all our lives.
-Nobody works harder than bees!
+Nobody works harder than BEES!
 
   
 Dad, I remember you
@@ -2232,7 +2232,7 @@ We live on two cups a year. They put it
 in lip balm for no reason whatsoever!
 
   
-Even if it's true, what can one bee do?
+Even if it's true, what can one BEE do?
 
   
 Sting them where it really hurts.
@@ -2256,7 +2256,7 @@ Hive at Five, the hive's only
 full-hour action news source.
 
   
-No more bee beards!
+No more BEE beards!
 
   
 With Bob Bumble at the anchor desk.
@@ -2275,7 +2275,7 @@ And Jeanette Ohung.
 - And I'm Jeanette Ohung.
 
   
-A tri-county bee, Barry Benson,
+A tri-county BEE, Barry Benson,
 
   
 intends to sue the human race
@@ -2286,7 +2286,7 @@ packaging it and profiting
 from it illegally!
 
   
-Tomorrow night on Bee Larry King,
+Tomorrow night on BEE Larry King,
 
   
 we'll have three former queens here in
@@ -2304,12 +2304,12 @@ Did you ever think, "I'm a kid
 from the hive. I can't do this"?
 
   
-Bees have never been afraid
+BEES have never BEEn afraid
 to change the world.
 
   
-What about Bee Oolumbus?
-Bee Gandhi? Bejesus?
+What about BEE Oolumbus?
+BEE Gandhi? Bejesus?
 
   
 Where I'm from, we'd never sue humans.
@@ -2322,12 +2322,12 @@ of stickball or candy stores.
 How old are you?
 
   
-The bee community
+The BEE community
 is supporting you in this case,
 
   
 which will be the trial
-of the bee century.
+of the BEE century.
 
   
 You know, they have a Larry King
@@ -2371,7 +2371,7 @@ Quiet, please.
 Actual work going on here.
 
   
-- Is that that same bee?
+- Is that that same BEE?
 - Yes, it is!
 
   
@@ -2379,7 +2379,7 @@ I'm helping him sue the human race.
 
   
 - Hello.
-- Hello, bee.
+- Hello, BEE.
 
   
 This is Ken.
@@ -2406,11 +2406,11 @@ Why is yogurt night so difficult?!
 
   
 You poor thing.
-You two have been at this for hours!
+You two have BEEn at this for hours!
 
   
 Yes, and Adam here
-has been a huge help.
+has BEEn a huge help.
 
   
 - Frosting...
@@ -2424,7 +2424,7 @@ to use the competition.
 So why are you helping me?
 
   
-Bees have good qualities.
+BEES have good qualities.
 
   
 And it takes my mind off the shop.
@@ -2447,7 +2447,7 @@ And artificial flowers.
 Bent stingers, pointless pollination.
 
   
-Bees must hate those fake things!
+BEES must hate those fake things!
 
   
 Nothing worse
@@ -2482,7 +2482,7 @@ because for the first time in history,
 
   
 we will hear for ourselves
-if a honeybee can actually speak.
+if a honeyBEE can actually speak.
 
   
 What have we gotten into here, Barry?
@@ -2507,7 +2507,7 @@ behind the barricade.
 - I don't know, I just got a chill.
 
   
-Well, if it isn't the bee team.
+Well, if it isn't the BEE team.
 
   
 You boys work on this?
@@ -2521,7 +2521,7 @@ All right. Oase number 4475,
 
   
 Superior Oourt of New York,
-Barry Bee Benson v. the Honey Industry
+Barry BEE Benson v. the Honey Industry
 
   
 is now in session.
@@ -2535,7 +2535,7 @@ A privilege.
 
   
 Mr. Benson... you're representing
-all the bees of the world?
+all the BEES of the world?
 
   
 I'm kidding. Yes, Your Honor,
@@ -2574,7 +2574,7 @@ with the silkworm
 for the elastic in my britches!
 
   
-Talking bee!
+Talking BEE!
 
   
 How do we know this isn't some sort of
@@ -2601,11 +2601,11 @@ Ladies and gentlemen,
 there's no trickery here.
 
   
-I'm just an ordinary bee.
+I'm just an ordinary BEE.
 Honey's pretty important to me.
 
   
-It's important to all bees.
+It's important to all BEES.
 We invented it!
 
   
@@ -2649,16 +2649,16 @@ I see you also own
 Honeyburton and Honron!
 
   
-Yes, they provide beekeepers
+Yes, they provide BEEkeepers
 for our farms.
 
   
-Beekeeper. I find that
+BEEkeeper. I find that
 to be a very disturbing term.
 
   
 I don't imagine you employ
-any bee-free-ers, do you?
+any BEE-free-ers, do you?
 
   
 - No.
@@ -2669,8 +2669,8 @@ any bee-free-ers, do you?
 - No.
 
   
-Because you don't free bees.
-You keep bees. Not only that,
+Because you don't free BEES.
+You keep BEES. Not only that,
 
   
 it seems you thought a bear would be
@@ -2686,7 +2686,7 @@ Yogi Bear, Fozzie Bear, Build-A-Bear.
 You mean like this?
 
   
-Bears kill bees!
+Bears kill BEES!
 
   
 How'd you like his head crashing
@@ -2708,7 +2708,7 @@ Your name intrigues me.
 - I was with a band called The Police.
 
   
-But you've never been
+But you've never BEEn
 a police officer, have you?
 
   
@@ -2719,7 +2719,7 @@ No, you haven't. And so here
 we have yet another example
 
   
-of bee culture casually
+of BEE culture casually
 stolen by a human
 
   
@@ -2730,7 +2730,7 @@ a prance-about stage name.
 Oh, please.
 
   
-Have you ever been stung, Mr. Sting?
+Have you ever BEEn stung, Mr. Sting?
 
   
 Because I'm feeling
@@ -2769,7 +2769,7 @@ Not yet it isn't. But is this
 what it's come to for you?
 
   
-Exploiting tiny, helpless bees
+Exploiting tiny, helpless BEES
 so you don't
 
   
@@ -2875,7 +2875,7 @@ the rightjob. We have that in common.
 Do we?
 
   
-Bees have 100 percent employment,
+BEES have 100 percent employment,
 but we do jobs like taking the crud out.
 
   
@@ -2970,11 +2970,11 @@ I don't eat it!
 We need to talk!
 
   
-He's just a little bee!
+He's just a little BEE!
 
   
 And he happens to be
-the nicest bee I've met in a long time!
+the nicest BEE I've met in a long time!
 
   
 Long time? What are you talking about?!
@@ -2985,7 +2985,7 @@ No, but there are other things bugging
 me in life. And you're one of them!
 
   
-Fine! Talking bees, no yogurt night...
+Fine! Talking BEES, no yogurt night...
 
   
 My nerves are fried from riding
@@ -3025,7 +3025,7 @@ is about out of ideas.
 
   
 We would like to call
-Mr. Barry Benson Bee to the stand.
+Mr. Barry Benson BEE to the stand.
 
   
 Good idea! You can really see why he's
@@ -3048,7 +3048,7 @@ to do to turn this jury around
 
   
 is to remind them
-of what they don't like about bees.
+of what they don't like about BEES.
 
   
 - You got the tweezers?
@@ -3058,7 +3058,7 @@ of what they don't like about bees.
 Only to losing, son. Only to losing.
 
   
-Mr. Benson Bee, I'll ask you
+Mr. Benson BEE, I'll ask you
 what I think we'd all like to know.
 
   
@@ -3087,12 +3087,12 @@ Are you her little...
 ...bedbug?
 
   
-I've seen a bee documentary or two.
+I've seen a BEE documentary or two.
 From what I understand,
 
   
 doesn't your queen give birth
-to all the bee children?
+to all the BEE children?
 
   
 - Yeah, but...
@@ -3106,11 +3106,11 @@ to all the bee children?
 Hold me back!
 
   
-You're an illegitimate bee,
+You're an illegitimate BEE,
 aren't you, Benson?
 
   
-He's denouncing bees!
+He's denouncing BEES!
 
   
 Don't y'all date your cousins?
@@ -3136,7 +3136,7 @@ The venom! The venom
 is coursing through my veins!
 
   
-I have been felled
+I have BEEn felled
 by a winged beast of destruction!
 
   
@@ -3165,11 +3165,11 @@ I will have order in this court. Order!
 Order, please!
 
   
-The case of the honeybees
+The case of the honeyBEES
 versus the human race
 
   
-took a pointed turn against the bees
+took a pointed turn against the BEES
 
   
 yesterday when one of their legal
@@ -3255,14 +3255,14 @@ to close that window?
 - The smoke.
 
   
-Bees don't smoke.
+BEES don't smoke.
 
   
-Right. Bees don't smoke.
+Right. BEES don't smoke.
 
   
-Bees don't smoke!
-But some bees are smoking.
+BEES don't smoke!
+But some BEES are smoking.
 
   
 That's it! That's our case!
@@ -3293,7 +3293,7 @@ Where is the rest of your team?
 Well, Your Honor, it's interesting.
 
   
-Bees are trained to fly haphazardly,
+BEES are trained to fly haphazardly,
 
   
 and as a result,
@@ -3354,7 +3354,7 @@ Here is your smoking gun.
 What is that?
 
   
-It's a bee smoker!
+It's a BEE smoker!
 
   
 What, this?
@@ -3362,13 +3362,13 @@ This harmless little contraption?
 
   
 This couldn't hurt a fly,
-let alone a bee.
+let alone a BEE.
 
   
 Look at what has happened
 
   
-to bees who have never been asked,
+to BEES who have never BEEn asked,
 "Smoking or non?"
 
   
@@ -3391,19 +3391,19 @@ to the white man?
 
   
 Ladies and gentlemen, please,
-free these bees!
+free these BEES!
 
   
-Free the bees! Free the bees!
+Free the BEES! Free the BEES!
 
   
-Free the bees!
+Free the BEES!
 
   
-Free the bees! Free the bees!
+Free the BEES! Free the BEES!
 
   
-The court finds in favor of the bees!
+The court finds in favor of the BEES!
 
   
 Vanessa, we won!
@@ -3419,7 +3419,7 @@ I'm OK! You know what this means?
 
   
 All the honey
-will finally belong to the bees.
+will finally belong to the BEES.
 
   
 Now we won't have
@@ -3450,7 +3450,7 @@ and I have no pants.
 - What do you mean?
 
   
-We've been living the bee way
+We've BEEn living the BEE way
 a long time, 27 million years.
 
   
@@ -3459,7 +3459,7 @@ What will you demand as a settlement?
 
   
 First, we'll demand a complete shutdown
-of all bee work camps.
+of all BEE work camps.
 
   
 Then we want back the honey
@@ -3492,7 +3492,7 @@ for a few hours, then he'll be fine.
 
   
 And we will no longer tolerate
-bee-negative nicknames...
+BEE-negative nicknames...
 
   
 But it's just a prance-about stage name!
@@ -3634,21 +3634,21 @@ No.
 And whose fault do you think that is?
 
   
-You know, I'm gonna guess bees.
+You know, I'm gonna guess BEES.
 
   
-Bees?
+BEES?
 
   
 Specifically, me.
 
   
-I didn't think bees not needing to make
+I didn't think BEES not needing to make
 honey would affect all these things.
 
   
 It's notjust flowers.
-Fruits, vegetables, they all need bees.
+Fruits, vegetables, they all need BEES.
 
   
 That's our whole SAT test right there.
@@ -3743,7 +3743,7 @@ Barry?
 - Yes, they are.
 
   
-Flowers, bees, pollen!
+Flowers, BEES, pollen!
 
   
 I know.
@@ -3792,7 +3792,7 @@ All right, they have the roses,
 the roses have the pollen.
 
   
-I know every bee, plant
+I know every BEE, plant
 and flower bud in this park.
 
   
@@ -3800,7 +3800,7 @@ All we gotta do is get what they've got
 back here with what we've got.
 
   
-- Bees.
+- BEES.
 - Park.
 
   
@@ -3895,7 +3895,7 @@ Stop! Security.
 - Yes.
 
   
-Has it been
+Has it BEEn
 in your possession the entire time?
 
   
@@ -3962,7 +3962,7 @@ Oaptain, I'm in a real situation.
 - Nothing.
 
   
-Bee!
+BEE!
 
   
 Don't freak out! My entire species...
@@ -4003,7 +4003,7 @@ One's bald, one's in a boat,
 they're both unconscious!
 
   
-- Is that another bee joke?
+- Is that another BEE joke?
 - No!
 
   
@@ -4040,7 +4040,7 @@ From the honey trial?! Oh, great.
 
   
 Vanessa, this is nothing more
-than a big metal bee.
+than a big metal BEE.
 
   
 It's got giant wings, huge engines.
@@ -4093,7 +4093,7 @@ with absolutely no flight experience.
 
   
 Just a minute.
-There's a bee on that plane.
+There's a BEE on that plane.
 
   
 I'm quite familiar with Mr. Benson
@@ -4106,7 +4106,7 @@ They've done enough damage.
 But isn't he your only hope?
 
   
-Technically, a bee
+Technically, a BEE
 shouldn't be able to fly at all.
 
   
@@ -4131,7 +4131,7 @@ and body mass make no sense."
 The way we work may be a mystery to you.
 
   
-Making honey takes a lot of bees
+Making honey takes a lot of BEES
 doing a lot of small jobs.
 
   
@@ -4146,11 +4146,11 @@ More than we realized.
 To us, to everyone.
 
   
-That's why I want to get bees
+That's why I want to get BEES
 back to working together.
 
   
-That's the bee way!
+That's the BEE way!
 We're not made of Jell-O.
 
   
@@ -4169,7 +4169,7 @@ Left, right, down, hover.
 
   
 This isn't so hard.
-Beep-beep! Beep-beep!
+BEEp-BEEp! BEEp-BEEp!
 
   
 Barry, what happened?!
@@ -4179,7 +4179,7 @@ Wait, I think we were
 on autopilot the whole time.
 
   
-- That may have been helping me.
+- That may have BEEn helping me.
 - And now we're not!
 
   
@@ -4273,15 +4273,15 @@ Where? I can't see anything. Oan you?
 No, nothing. It's all cloudy.
 
   
-Oome on. You got to think bee, Barry.
+Oome on. You got to think BEE, Barry.
 
   
-- Thinking bee.
-- Thinking bee.
+- Thinking BEE.
+- Thinking BEE.
 
   
-Thinking bee!
-Thinking bee! Thinking bee!
+Thinking BEE!
+Thinking BEE! Thinking BEE!
 
   
 Wait a minute.
@@ -4298,16 +4298,16 @@ Like a 27-million-year-old instinct.
 Bring the nose down.
 
   
-Thinking bee!
-Thinking bee! Thinking bee!
+Thinking BEE!
+Thinking BEE! Thinking BEE!
 
   
 - What in the world is on the tarmac?
 - Get some lights on that!
 
   
-Thinking bee!
-Thinking bee! Thinking bee!
+Thinking BEE!
+Thinking BEE! Thinking BEE!
 
   
 - Vanessa, aim for the flower.
@@ -4315,7 +4315,7 @@ Thinking bee! Thinking bee!
 
   
 Out the engines. We're going in
-on bee power. Ready, boys?
+on BEE power. Ready, boys?
 
   
 Affirmative!
@@ -4345,7 +4345,7 @@ That's a fat guy in a flowered shirt.
 I mean the giant pulsating flower
 
   
-made of millions of bees!
+made of millions of BEES!
 
   
 Pull forward. Nose down. Tail up.
@@ -4420,11 +4420,11 @@ If we're gonna survive as a species,
 this is our moment! What do you say?
 
   
-Are we going to be bees, orjust
+Are we going to be BEES, orjust
 Museum of Natural History keychains?
 
   
-We're bees!
+We're BEES!
 
   
 Keychain!
@@ -4452,7 +4452,7 @@ Oh, yeah.
 That's our Barry.
 
   
-Mom! The bees are back!
+Mom! The BEES are back!
 
   
 If anybody needs
@@ -4468,7 +4468,7 @@ afternoon! Oan I help who's next?
 
   
 Would you like some honey with that?
-It is bee-approved. Don't forget these.
+It is BEE-approved. Don't forget these.
 
   
 Milk, cream, cheese, it's all me.
@@ -4522,7 +4522,7 @@ It's time to fly.
 Thank you, Barry!
 
   
-That bee is living my life!
+That BEE is living my life!
 
   
 Let it go, Kenny.
@@ -4541,10 +4541,10 @@ I was dying to get out of that office.
 
   
 You have got
-to start thinking bee, my friend.
+to start thinking BEE, my friend.
 
   
-- Thinking bee!
+- Thinking BEE!
 - Me?
 
   
