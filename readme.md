@@ -1,6 +1,6 @@
 # Visual JS
 
-## BEE Movie Script - Dialogue Transcript
+BEE Movie Script - Dialogue Transcript
 
   
 According to all known laws
